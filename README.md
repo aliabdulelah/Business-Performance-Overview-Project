@@ -44,5 +44,6 @@ This project presents a dynamic Power BI dashboard designed to provide comprehen
 ## Technologies Used
 
 - **Power BI:** For data visualization and dashboard creation.
+- **Excel :**   For Cleaning Data.
 
 
